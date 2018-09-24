@@ -1,0 +1,25 @@
+body
+{
+    backround-color: purple;
+    background-image: url(Image1.jpg);
+    backround-size: 100%;
+}
+p
+{
+    background-color: cornsilk;
+    color:deeppink;
+    font-family: monospace;
+    font-size: 22pt;
+}
+a
+{
+    color: blue;
+}
+a:hover
+{
+    color: yellow;
+}
+p.links
+{
+    color:rebeccapurple;
+}

@@ -1,0 +1,13 @@
+body
+{
+    background-image: url(BackGround.jpg);
+    backround-size: 100%;
+}
+a
+{
+    color:purple;
+}
+a:hover
+{
+    color:yellow;
+}
